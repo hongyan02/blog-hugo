@@ -21,4 +21,5 @@ name = "RSS"
 link = "/index.xml"
 
 [permalinks]
+page = "/:title/"
 post = "/blog/:title/"

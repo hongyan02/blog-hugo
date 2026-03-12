@@ -1,0 +1,16 @@
+# Hugo
+public/
+resources/
+.hugo_build.lock
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+*.swo

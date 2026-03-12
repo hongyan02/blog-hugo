@@ -1,0 +1,24 @@
+baseURL = "https://agcl.cn"
+languageCode = 'zh-cn'
+title = "Thoughts on AgCl"
+
+theme = "yinyang"
+
+[params]
+headTitle = "AgCl"
+mainSections = ["posts"]
+description = "hello world"
+
+[[params.socials]]
+name = "About Me"
+link = "https://agcl.cn/aboutme"
+[[params.socials]]
+name = "Github"
+link = "https://github.com/hongyan02"
+
+[[params.socials]]
+name = "RSS"
+link = "/index.xml"
+
+[permalinks]
+post = "/blog/:title/"

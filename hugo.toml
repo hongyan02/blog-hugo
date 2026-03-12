@@ -1,4 +1,4 @@
-baseURL = "https://www.agcl.cn"
+baseURL = "https://agcl.cn"
 languageCode = 'zh-cn'
 title = "Thoughts on AgCl"
 
@@ -11,7 +11,7 @@ description = "hello world"
 
 [[params.socials]]
 name = "About Me"
-link = "https://www.agcl.cn/about"
+link = "https://agcl.cn/about/"
 [[params.socials]]
 name = "Github"
 link = "https://github.com/hongyan02"
